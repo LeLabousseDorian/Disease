@@ -1182,3 +1182,535 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.29-07.33.00:333][420]LogPlayLevel: Display: Destroying online subsystem :Context_9
 [2022.03.29-07.33.01:618][545]LogSlate: Window 'Message Log' being destroyed
 [2022.03.29-07.33.01:622][545]LogSlate: Window 'Message Log' being destroyed
+[2022.03.29-07.55.44:513][787]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.29-07.55.44:521][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.29-07.55.44:521][787]PIE: New page: PIE session: FirstPersonExampleMap (29 mars 2022 à 11:55:44)
+[2022.03.29-07.55.44:521][787]LogPlayLevel: Creating play world package: /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.29-07.55.44:531][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010589s)
+[2022.03.29-07.55.44:533][787]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.29-07.55.44:533][787]LogPlayLevel: PIE: World Init took: (0.001575s)
+[2022.03.29-07.55.44:533][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012441s)
+[2022.03.29-07.55.44:560][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.03.29-07.55.44:561][787]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.03.29-07.55.44:561][787]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.29-07.55.44:561][787]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.29-07.55.44:561][787]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.29-07.55.44:561][787]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.29-07.55.44:561][787]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.29-07.55.44:561][787]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.29-07.55.44:562][787]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.29-07.55.44:562][787]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.29-07.55.44:562][787]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.29-07.55.44:562][787]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.29-07.55.44:562][787]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.29-07.55.44:562][787]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.29-07.55.44:566][787]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.29-07.55.44:566][787]LogAudioMixer: Display: 1: FrontRight
+[2022.03.29-07.55.44:575][787]LogAudioMixer: Display: Using Audio Device LG HDR WFHD (NVIDIA High Definition Audio)
+[2022.03.29-07.55.44:575][787]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.29-07.55.44:575][787]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.29-07.55.44:575][787]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.29-07.55.44:575][787]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.29-07.55.44:575][787]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.29-07.55.44:575][787]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.29-07.55.44:576][787]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.29-07.55.44:576][787]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.29-07.55.44:576][787]LogInit: FAudioDevice initialized.
+[2022.03.29-07.55.44:576][787]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonExampleMap'.
+[2022.03.29-07.55.44:583][787]LogLoad: Game class is 'BP_GameMode_C'
+[2022.03.29-07.55.44:585][787]LogWorld: Bringing World /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.29-09.55.44
+[2022.03.29-07.55.44:585][787]LogWorld: Bringing up level for play took: 0.002097
+[2022.03.29-07.55.44:586][787]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.03.29-07.55.44:588][787]PIE: Server logged in
+[2022.03.29-07.55.44:588][787]PIE: Play in editor total start time 0,069 seconds.
+[2022.03.29-07.55.47:707][159]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.55.47:707][159]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.55.50:299][470]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.55.50:299][470]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.55.51:291][589]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.55.51:291][589]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.55.52:166][694]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.55.52:166][694]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.55.53:349][836]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.55.53:349][836]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.55.54:416][964]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.55.54:416][964]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.55.55:441][ 87]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.55.55:441][ 87]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.55.56:641][231]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.55.56:641][231]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.55.57:516][336]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.55.57:516][336]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.55.58:258][425]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.55.58:258][425]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.55.59:074][523]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.55.59:074][523]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.56.00:050][640]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.56.00:050][640]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.56.01:041][759]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.56.01:041][759]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.56.01:550][820]LogBlueprintUserMessages: [BP_MyPlayerController_C_0] Controller.HitPickable : No BP_AC_Pickable
+[2022.03.29-07.56.02:458][929]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.56.02:458][929]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.56.03:366][ 38]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.56.03:366][ 38]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.56.06:683][436]LogBlueprintUserMessages: [BP_MyPlayerController_C_0] Controller.HitPickable : No BP_AC_Pickable
+[2022.03.29-07.56.07:000][474]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.56.07:000][474]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.56.10:375][879]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.56.10:375][879]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.56.11:367][998]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.56.11:367][998]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.56.21:575][223]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable4_8.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.56.21:575][223]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable4_8.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.56.26:800][850]LogBlueprintUserMessages: [BP_MyPlayerController_C_0] Controller.HitPickable : No BP_AC_Pickable
+[2022.03.29-07.56.30:062][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.29-07.56.30:062][235]LogWorld: BeginTearingDown for /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.29-07.56.30:062][235]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.29-07.56.30:062][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.29-07.56.30:069][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.29-07.56.30:077][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.29-07.56.30:096][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.29-07.56.30:097][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.29-07.56.30:098][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.29-07.56.30:103][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.03.29-07.56.30:212][236]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.03.29-07.56.33:868][637]LogSlate: Window 'Message Log' being destroyed
+[2022.03.29-07.56.33:871][637]LogSlate: Window 'Message Log' being destroyed
+[2022.03.29-07.56.40:952][477]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.29-07.56.40:958][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.29-07.56.40:959][477]PIE: New page: PIE session: FirstPersonExampleMap (29 mars 2022 à 11:56:40)
+[2022.03.29-07.56.40:991][477]LogPlayLevel: Creating play world package: /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.29-07.56.41:002][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011715s)
+[2022.03.29-07.56.41:004][477]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.29-07.56.41:004][477]LogPlayLevel: PIE: World Init took: (0.001329s)
+[2022.03.29-07.56.41:004][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013303s)
+[2022.03.29-07.56.41:029][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.03.29-07.56.41:031][477]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.03.29-07.56.41:031][477]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.29-07.56.41:031][477]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.29-07.56.41:031][477]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.29-07.56.41:031][477]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.29-07.56.41:031][477]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.29-07.56.41:031][477]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.29-07.56.41:031][477]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.29-07.56.41:031][477]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.29-07.56.41:032][477]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.29-07.56.41:032][477]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.29-07.56.41:032][477]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.29-07.56.41:032][477]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.29-07.56.41:035][477]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.29-07.56.41:035][477]LogAudioMixer: Display: 1: FrontRight
+[2022.03.29-07.56.41:043][477]LogAudioMixer: Display: Using Audio Device LG HDR WFHD (NVIDIA High Definition Audio)
+[2022.03.29-07.56.41:043][477]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.29-07.56.41:043][477]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.29-07.56.41:043][477]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.29-07.56.41:043][477]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.29-07.56.41:043][477]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.29-07.56.41:044][477]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.29-07.56.41:044][477]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.29-07.56.41:044][477]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.29-07.56.41:044][477]LogInit: FAudioDevice initialized.
+[2022.03.29-07.56.41:044][477]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonExampleMap'.
+[2022.03.29-07.56.41:050][477]LogLoad: Game class is 'BP_GameMode_C'
+[2022.03.29-07.56.41:052][477]LogWorld: Bringing World /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.29-09.56.41
+[2022.03.29-07.56.41:053][477]LogWorld: Bringing up level for play took: 0.001727
+[2022.03.29-07.56.41:053][477]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.03.29-07.56.41:054][477]PIE: Server logged in
+[2022.03.29-07.56.41:055][477]PIE: Play in editor total start time 0,097 seconds.
+[2022.03.29-07.56.42:325][626]LogBlueprintUserMessages: [BP_MyPlayerController_C_0] Controller : Hit Nothing
+[2022.03.29-07.56.42:734][675]LogBlueprintUserMessages: [BP_MyPlayerController_C_0] Controller.HitPickable : No BP_AC_Pickable
+[2022.03.29-07.56.43:684][789]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable4_8.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.56.43:684][789]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable4_8.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.56.44:616][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.29-07.56.44:616][895]LogWorld: BeginTearingDown for /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.29-07.56.44:617][895]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.29-07.56.44:618][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.29-07.56.44:640][895]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.29-07.56.44:662][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.29-07.56.44:683][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.29-07.56.44:683][895]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.29-07.56.44:684][895]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.29-07.56.44:689][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.03.29-07.56.44:839][896]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.03.29-07.57.29:235][813]LogSlate: Window 'Message Log' being destroyed
+[2022.03.29-07.57.29:240][813]LogSlate: Window 'Message Log' being destroyed
+[2022.03.29-07.57.30:655][983]LogEditorViewport: Clicking on Actor (LMB): BP_CubePickable_C (BP_CubePickable3)
+[2022.03.29-07.59.16:882][954]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.29-07.59.16:889][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.29-07.59.16:889][954]PIE: New page: PIE session: FirstPersonExampleMap (29 mars 2022 à 11:59:16)
+[2022.03.29-07.59.16:921][954]LogPlayLevel: Creating play world package: /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.29-07.59.16:930][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009524s)
+[2022.03.29-07.59.16:931][954]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.29-07.59.16:932][954]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2022.03.29-07.59.16:932][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010912s)
+[2022.03.29-07.59.16:958][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.03.29-07.59.16:958][954]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.03.29-07.59.16:959][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.29-07.59.16:959][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.29-07.59.16:959][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.29-07.59.16:959][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.29-07.59.16:959][954]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.29-07.59.16:959][954]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.29-07.59.16:959][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.29-07.59.16:959][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.29-07.59.16:959][954]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.29-07.59.16:959][954]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.29-07.59.16:959][954]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.29-07.59.16:959][954]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.29-07.59.16:963][954]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.29-07.59.16:963][954]LogAudioMixer: Display: 1: FrontRight
+[2022.03.29-07.59.16:972][954]LogAudioMixer: Display: Using Audio Device LG HDR WFHD (NVIDIA High Definition Audio)
+[2022.03.29-07.59.16:972][954]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.29-07.59.16:972][954]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.29-07.59.16:972][954]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.29-07.59.16:973][954]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.29-07.59.16:973][954]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.29-07.59.16:973][954]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.29-07.59.16:973][954]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.29-07.59.16:974][954]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.29-07.59.16:974][954]LogInit: FAudioDevice initialized.
+[2022.03.29-07.59.16:974][954]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonExampleMap'.
+[2022.03.29-07.59.16:983][954]LogLoad: Game class is 'BP_GameMode_C'
+[2022.03.29-07.59.16:986][954]LogWorld: Bringing World /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.29-09.59.16
+[2022.03.29-07.59.16:986][954]LogWorld: Bringing up level for play took: 0.001693
+[2022.03.29-07.59.16:986][954]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.03.29-07.59.16:988][954]PIE: Server logged in
+[2022.03.29-07.59.16:989][954]PIE: Play in editor total start time 0,101 seconds.
+[2022.03.29-07.59.18:574][141]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable2_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.18:574][141]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable2_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.21:174][453]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.21:174][453]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.23:966][788]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.23:966][788]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.24:707][877]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.24:707][877]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.27:215][178]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.27:215][178]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.32:458][807]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.32:458][807]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.33:666][952]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.33:666][952]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.36:666][312]LogBlueprintUserMessages: [BP_MyPlayerController_C_0] Controller.HitPickable : No BP_AC_Pickable
+[2022.03.29-07.59.36:866][336]LogBlueprintUserMessages: [BP_MyPlayerController_C_0] Controller : Hit Nothing
+[2022.03.29-07.59.37:157][371]LogBlueprintUserMessages: [BP_MyPlayerController_C_0] Controller : Hit Nothing
+[2022.03.29-07.59.37:474][409]LogBlueprintUserMessages: [BP_MyPlayerController_C_0] Controller : Hit Nothing
+[2022.03.29-07.59.37:791][447]LogBlueprintUserMessages: [BP_MyPlayerController_C_0] Controller : Hit Nothing
+[2022.03.29-07.59.38:107][485]LogBlueprintUserMessages: [BP_MyPlayerController_C_0] Controller : Hit Nothing
+[2022.03.29-07.59.38:408][521]LogBlueprintUserMessages: [BP_MyPlayerController_C_0] Controller : Hit Nothing
+[2022.03.29-07.59.38:816][570]LogBlueprintUserMessages: [BP_MyPlayerController_C_0] Controller : Hit Nothing
+[2022.03.29-07.59.39:533][656]LogBlueprintUserMessages: [BP_MyPlayerController_C_0] Controller : Hit Nothing
+[2022.03.29-07.59.40:558][779]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.40:558][779]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.44:958][307]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.44:958][307]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.46:725][519]LogBlueprintUserMessages: [BP_MyPlayerController_C_0] Controller.HitPickable : No BP_AC_Pickable
+[2022.03.29-07.59.46:992][551]LogBlueprintUserMessages: [BP_MyPlayerController_C_0] Controller.HitPickable : No BP_AC_Pickable
+[2022.03.29-07.59.47:325][591]LogBlueprintUserMessages: [BP_MyPlayerController_C_0] Controller.HitPickable : No BP_AC_Pickable
+[2022.03.29-07.59.47:625][627]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.47:625][627]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.50:733][  0]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.50:733][  0]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.51:725][119]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.51:725][119]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.52:791][247]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.52:791][247]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.53:933][384]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.53:933][384]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.55:084][522]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.55:084][522]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-07.59.57:177][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.29-07.59.57:177][768]LogWorld: BeginTearingDown for /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.29-07.59.57:177][768]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.29-07.59.57:178][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.29-07.59.57:195][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.29-07.59.57:212][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.29-07.59.57:234][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.29-07.59.57:234][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.29-07.59.57:235][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.29-07.59.57:240][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.03.29-07.59.57:356][769]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.03.29-07.59.58:858][922]LogSlate: Window 'Message Log' being destroyed
+[2022.03.29-07.59.58:863][922]LogSlate: Window 'Message Log' being destroyed
+[2022.03.29-08.00.40:629][314]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.29-08.00.40:636][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.29-08.00.40:636][314]PIE: New page: PIE session: FirstPersonExampleMap (29 mars 2022 à 12:00:40)
+[2022.03.29-08.00.40:672][314]LogPlayLevel: Creating play world package: /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.29-08.00.40:682][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009812s)
+[2022.03.29-08.00.40:683][314]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.29-08.00.40:683][314]LogPlayLevel: PIE: World Init took: (0.001228s)
+[2022.03.29-08.00.40:683][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011333s)
+[2022.03.29-08.00.40:708][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.03.29-08.00.40:710][314]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.03.29-08.00.40:710][314]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.29-08.00.40:710][314]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.29-08.00.40:710][314]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.29-08.00.40:710][314]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.29-08.00.40:710][314]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.29-08.00.40:710][314]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.29-08.00.40:710][314]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.29-08.00.40:710][314]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.29-08.00.40:710][314]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.29-08.00.40:710][314]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.29-08.00.40:710][314]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.29-08.00.40:710][314]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.29-08.00.40:714][314]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.29-08.00.40:714][314]LogAudioMixer: Display: 1: FrontRight
+[2022.03.29-08.00.40:722][314]LogAudioMixer: Display: Using Audio Device LG HDR WFHD (NVIDIA High Definition Audio)
+[2022.03.29-08.00.40:722][314]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.29-08.00.40:722][314]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.29-08.00.40:722][314]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.29-08.00.40:722][314]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.29-08.00.40:722][314]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.29-08.00.40:722][314]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.29-08.00.40:723][314]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.29-08.00.40:723][314]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.29-08.00.40:723][314]LogInit: FAudioDevice initialized.
+[2022.03.29-08.00.40:723][314]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonExampleMap'.
+[2022.03.29-08.00.40:731][314]LogLoad: Game class is 'BP_GameMode_C'
+[2022.03.29-08.00.40:734][314]LogWorld: Bringing World /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.29-10.00.40
+[2022.03.29-08.00.40:734][314]LogWorld: Bringing up level for play took: 0.001826
+[2022.03.29-08.00.40:734][314]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.03.29-08.00.40:736][314]PIE: Server logged in
+[2022.03.29-08.00.40:736][314]PIE: Play in editor total start time 0,101 seconds.
+[2022.03.29-08.00.44:463][759]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-08.00.44:463][759]PIE: Warning: Invalid Simulate Options: Body (BP_CubePickable5_2.StaticMesh 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2022.03.29-08.00.50:226][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.29-08.00.50:226][446]LogWorld: BeginTearingDown for /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.29-08.00.50:227][446]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.29-08.00.50:228][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.29-08.00.50:247][446]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.29-08.00.50:266][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.29-08.00.50:289][446]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.29-08.00.50:289][446]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.29-08.00.50:290][446]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.29-08.00.50:292][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.29-08.00.50:295][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.03.29-08.00.50:423][447]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.03.29-08.00.51:788][580]LogSlate: Window 'Message Log' being destroyed
+[2022.03.29-08.00.51:792][580]LogSlate: Window 'Message Log' being destroyed
+[2022.03.29-08.00.57:201][208]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Microwave/Digital_Clock.Digital_Clock
+[2022.03.29-08.00.57:519][208]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.29-08.02.03:292][990]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.29-08.02.03:299][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.29-08.02.03:299][990]PIE: New page: PIE session: FirstPersonExampleMap (29 mars 2022 à 12:02:03)
+[2022.03.29-08.02.03:322][990]LogPlayLevel: Creating play world package: /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.29-08.02.03:331][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009364s)
+[2022.03.29-08.02.03:332][990]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.29-08.02.03:332][990]LogPlayLevel: PIE: World Init took: (0.001269s)
+[2022.03.29-08.02.03:332][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010835s)
+[2022.03.29-08.02.03:361][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.03.29-08.02.03:363][990]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.03.29-08.02.03:363][990]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.29-08.02.03:363][990]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.29-08.02.03:363][990]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.29-08.02.03:363][990]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.29-08.02.03:363][990]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.29-08.02.03:363][990]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.29-08.02.03:363][990]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.29-08.02.03:363][990]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.29-08.02.03:363][990]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.29-08.02.03:363][990]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.29-08.02.03:363][990]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.29-08.02.03:363][990]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.29-08.02.03:367][990]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.29-08.02.03:367][990]LogAudioMixer: Display: 1: FrontRight
+[2022.03.29-08.02.03:375][990]LogAudioMixer: Display: Using Audio Device LG HDR WFHD (NVIDIA High Definition Audio)
+[2022.03.29-08.02.03:375][990]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.29-08.02.03:375][990]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.29-08.02.03:376][990]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.29-08.02.03:376][990]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.29-08.02.03:376][990]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.29-08.02.03:376][990]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.29-08.02.03:377][990]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.29-08.02.03:377][990]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.29-08.02.03:377][990]LogInit: FAudioDevice initialized.
+[2022.03.29-08.02.03:377][990]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonExampleMap'.
+[2022.03.29-08.02.03:384][990]LogLoad: Game class is 'BP_GameMode_C'
+[2022.03.29-08.02.03:386][990]LogWorld: Bringing World /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.29-10.02.03
+[2022.03.29-08.02.03:386][990]LogWorld: Bringing up level for play took: 0.001716
+[2022.03.29-08.02.03:386][990]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.03.29-08.02.03:388][990]PIE: Server logged in
+[2022.03.29-08.02.03:389][990]PIE: Play in editor total start time 0,091 seconds.
+[2022.03.29-08.02.24:323][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.29-08.02.24:323][304]LogWorld: BeginTearingDown for /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.29-08.02.24:323][304]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.29-08.02.24:324][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.29-08.02.24:334][304]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.29-08.02.24:343][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.29-08.02.24:365][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.29-08.02.24:365][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.29-08.02.24:366][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.29-08.02.24:371][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.03.29-08.02.24:394][306]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.03.29-08.02.40:196][117]BlueprintLog: New page: Compile Digital_Clock
+[2022.03.29-08.02.40:236][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.03.29-08.02.40:239][117]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Digital_Clock_C_CHILDACTOR_2419.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.03.29-08.02.40:240][117]LogActorComponent: RegisterComponentWithWorld: (/Game/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Digital_Clock_C_CHILDACTOR_284.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.03.29-08.02.40:241][117]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Digital_Clock_C_CHILDACTOR_71.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.03.29-08.02.40:245][117]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Digital_Clock_C_CHILDACTOR_2421.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.03.29-08.02.40:246][117]LogActorComponent: RegisterComponentWithWorld: (/Game/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Digital_Clock_C_CHILDACTOR_286.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.03.29-08.02.40:247][117]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Digital_Clock_C_CHILDACTOR_73.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.03.29-08.02.40:667][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Microwave/Digital_Clock" FILE="../../../../GitHUB/Disease/Github/Unreal/Content/Assets/Microwave/Digital_Clock.uasset" SILENT=true
+[2022.03.29-08.02.40:675][161]LogSavePackage: Moving '../../../../GitHUB/Disease/Github/Unreal/Saved/Digital_ClockE014C20047EDC5EE8779F3A788441CB2.tmp' to '../../../../GitHUB/Disease/Github/Unreal/Content/Assets/Microwave/Digital_Clock.uasset'
+[2022.03.29-08.02.40:687][161]AssetCheck: New page: Asset Save: Digital_Clock
+[2022.03.29-08.02.40:687][161]LogContentValidation: Display: Validating Blueprint /Game/Assets/Microwave/Digital_Clock.Digital_Clock
+[2022.03.29-08.02.44:560][599]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.03.29-08.02.44:579][599]LogSavePackage: Moving '../../../../GitHUB/Disease/Github/Unreal/Saved/FirstPersonExampleMap7AEC763E4FBA777A3A95D78414AF68EC.tmp' to '../../../../GitHUB/Disease/Github/Unreal/Content/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.29-08.02.44:935][599]LogSavePackage: Moving '../../../../GitHUB/Disease/Github/Unreal/Saved/FirstPersonExampleMap_BuiltDataD67D433742408219B66B37801C2087EC.tmp' to '../../../../GitHUB/Disease/Github/Unreal/Content/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.03.29-08.02.44:945][599]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.29-08.02.44:945][599]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.03.29-08.02.44:945][599]LogContentValidation: Display: Validating World /Game/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.03.29-08.02.53:919][637]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.29-08.02.53:926][637]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.29-08.02.53:926][637]PIE: New page: PIE session: FirstPersonExampleMap (29 mars 2022 à 12:02:53)
+[2022.03.29-08.02.53:926][637]LogPlayLevel: Creating play world package: /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.29-08.02.53:935][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009293s)
+[2022.03.29-08.02.53:936][637]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.29-08.02.53:937][637]LogPlayLevel: PIE: World Init took: (0.001311s)
+[2022.03.29-08.02.53:937][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010749s)
+[2022.03.29-08.02.53:963][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.03.29-08.02.53:965][637]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.03.29-08.02.53:965][637]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.29-08.02.53:965][637]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.29-08.02.53:965][637]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.29-08.02.53:965][637]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.29-08.02.53:965][637]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.29-08.02.53:965][637]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.29-08.02.53:965][637]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.29-08.02.53:965][637]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.29-08.02.53:966][637]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.29-08.02.53:966][637]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.29-08.02.53:966][637]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.29-08.02.53:966][637]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.29-08.02.53:969][637]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.29-08.02.53:969][637]LogAudioMixer: Display: 1: FrontRight
+[2022.03.29-08.02.53:977][637]LogAudioMixer: Display: Using Audio Device LG HDR WFHD (NVIDIA High Definition Audio)
+[2022.03.29-08.02.53:977][637]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.29-08.02.53:977][637]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.29-08.02.53:977][637]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.29-08.02.53:977][637]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.29-08.02.53:977][637]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.29-08.02.53:977][637]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.29-08.02.53:978][637]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.29-08.02.53:978][637]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.29-08.02.53:978][637]LogInit: FAudioDevice initialized.
+[2022.03.29-08.02.53:978][637]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonExampleMap'.
+[2022.03.29-08.02.53:988][637]LogLoad: Game class is 'BP_GameMode_C'
+[2022.03.29-08.02.53:991][637]LogWorld: Bringing World /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.29-10.02.53
+[2022.03.29-08.02.53:991][637]LogWorld: Bringing up level for play took: 0.001765
+[2022.03.29-08.02.53:991][637]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.03.29-08.02.53:993][637]PIE: Server logged in
+[2022.03.29-08.02.53:993][637]PIE: Play in editor total start time 0,068 seconds.
+[2022.03.29-08.02.58:925][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.29-08.02.58:925][222]LogWorld: BeginTearingDown for /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.29-08.02.58:925][222]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.29-08.02.58:926][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.29-08.02.58:940][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.29-08.02.58:955][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.29-08.02.58:979][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.29-08.02.58:979][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.29-08.02.58:980][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.29-08.02.58:986][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.03.29-08.02.59:014][223]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.03.29-08.06.36:557][912]BlueprintLog: New page: Compile Digital_Clock
+[2022.03.29-08.06.36:602][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.03.29-08.06.36:605][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Digital_Clock_C_CHILDACTOR_2425.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.03.29-08.06.36:605][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Digital_Clock_C_CHILDACTOR_75.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.03.29-08.06.36:607][912]LogActorComponent: RegisterComponentWithWorld: (/Game/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Digital_Clock_C_CHILDACTOR_288.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.03.29-08.06.36:613][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_Digital_Clock_C_CHILDACTOR_2427.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.03.29-08.06.36:613][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Digital_Clock_C_CHILDACTOR_77.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.03.29-08.06.36:614][912]LogActorComponent: RegisterComponentWithWorld: (/Game/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.DESTROYED_Digital_Clock_C_CHILDACTOR_290.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.03.29-08.06.37:102][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Microwave/Digital_Clock" FILE="../../../../GitHUB/Disease/Github/Unreal/Content/Assets/Microwave/Digital_Clock.uasset" SILENT=true
+[2022.03.29-08.06.37:110][965]LogSavePackage: Moving '../../../../GitHUB/Disease/Github/Unreal/Saved/Digital_ClockDF683D724C8433A6550C3D967375B953.tmp' to '../../../../GitHUB/Disease/Github/Unreal/Content/Assets/Microwave/Digital_Clock.uasset'
+[2022.03.29-08.06.37:122][965]AssetCheck: New page: Asset Save: Digital_Clock
+[2022.03.29-08.06.37:122][965]LogContentValidation: Display: Validating Blueprint /Game/Assets/Microwave/Digital_Clock.Digital_Clock
+[2022.03.29-08.06.39:111][195]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.03.29-08.06.39:111][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.29-08.06.47:738][104]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Microwave/Digital_Clock.Digital_Clock
+[2022.03.29-08.06.52:244][579]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.03.29-08.06.52:245][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.29-08.06.54:772][856]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.03.29-08.06.54:792][856]LogSavePackage: Moving '../../../../GitHUB/Disease/Github/Unreal/Saved/FirstPersonExampleMap75E27D764C98CB45CB21FAB0B3A401C1.tmp' to '../../../../GitHUB/Disease/Github/Unreal/Content/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.29-08.06.55:148][856]LogSavePackage: Moving '../../../../GitHUB/Disease/Github/Unreal/Saved/FirstPersonExampleMap_BuiltData25D3E92944EB89059D36008F69E41BC6.tmp' to '../../../../GitHUB/Disease/Github/Unreal/Content/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.03.29-08.06.55:157][856]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.29-08.06.55:157][856]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.03.29-08.06.55:157][856]LogContentValidation: Display: Validating World /Game/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.03.29-08.07.12:286][843]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.29-08.07.12:302][843]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.29-08.08.11:076][860]BlueprintLog: New page: Compile BP_Microwave
+[2022.03.29-08.08.11:116][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.03.29-08.08.11:877][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Microwave/BP_Microwave" FILE="../../../../GitHUB/Disease/Github/Unreal/Content/Assets/Microwave/BP_Microwave.uasset" SILENT=true
+[2022.03.29-08.08.11:885][942]LogSavePackage: Moving '../../../../GitHUB/Disease/Github/Unreal/Saved/BP_MicrowaveD39493C74F96154A2EA44B87CD8B26A4.tmp' to '../../../../GitHUB/Disease/Github/Unreal/Content/Assets/Microwave/BP_Microwave.uasset'
+[2022.03.29-08.08.11:896][942]AssetCheck: New page: Asset Save: BP_Microwave
+[2022.03.29-08.08.11:896][942]LogContentValidation: Display: Validating Blueprint /Game/Assets/Microwave/BP_Microwave.BP_Microwave
+[2022.03.29-08.08.14:044][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.03.29-08.08.14:063][187]LogSavePackage: Moving '../../../../GitHUB/Disease/Github/Unreal/Saved/FirstPersonExampleMap4E5892EB4E428FA86109D3B3A8EA827E.tmp' to '../../../../GitHUB/Disease/Github/Unreal/Content/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.29-08.08.14:473][187]LogSavePackage: Moving '../../../../GitHUB/Disease/Github/Unreal/Saved/FirstPersonExampleMap_BuiltDataA39AD6D54AB42EE9D0788EBD7B51F4ED.tmp' to '../../../../GitHUB/Disease/Github/Unreal/Content/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.03.29-08.08.14:483][187]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.29-08.08.14:483][187]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.03.29-08.08.14:483][187]LogContentValidation: Display: Validating World /Game/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.03.29-08.08.14:993][247]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.29-08.08.15:000][247]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.29-08.08.15:000][247]PIE: New page: PIE session: FirstPersonExampleMap (29 mars 2022 à 12:08:15)
+[2022.03.29-08.08.15:033][247]LogPlayLevel: Creating play world package: /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.29-08.08.15:045][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011999s)
+[2022.03.29-08.08.15:046][247]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.29-08.08.15:046][247]LogPlayLevel: PIE: World Init took: (0.001390s)
+[2022.03.29-08.08.15:046][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013656s)
+[2022.03.29-08.08.15:074][247]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.03.29-08.08.15:074][247]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.03.29-08.08.15:074][247]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.29-08.08.15:074][247]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.29-08.08.15:074][247]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.29-08.08.15:074][247]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.29-08.08.15:074][247]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.29-08.08.15:074][247]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.29-08.08.15:074][247]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.29-08.08.15:074][247]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.29-08.08.15:075][247]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.29-08.08.15:075][247]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.29-08.08.15:075][247]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.29-08.08.15:075][247]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.29-08.08.15:078][247]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.29-08.08.15:078][247]LogAudioMixer: Display: 1: FrontRight
+[2022.03.29-08.08.15:087][247]LogAudioMixer: Display: Using Audio Device LG HDR WFHD (NVIDIA High Definition Audio)
+[2022.03.29-08.08.15:087][247]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.29-08.08.15:087][247]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.29-08.08.15:087][247]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.29-08.08.15:087][247]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.29-08.08.15:087][247]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.29-08.08.15:087][247]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.29-08.08.15:088][247]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.29-08.08.15:088][247]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.29-08.08.15:088][247]LogInit: FAudioDevice initialized.
+[2022.03.29-08.08.15:088][247]LogAudio: Display: Audio Device (ID: 11) registered with world 'FirstPersonExampleMap'.
+[2022.03.29-08.08.15:092][247]LogLoad: Game class is 'BP_GameMode_C'
+[2022.03.29-08.08.15:095][247]LogWorld: Bringing World /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.29-10.08.15
+[2022.03.29-08.08.15:095][247]LogWorld: Bringing up level for play took: 0.001800
+[2022.03.29-08.08.15:095][247]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.03.29-08.08.15:097][247]PIE: Server logged in
+[2022.03.29-08.08.15:098][247]PIE: Play in editor total start time 0,099 seconds.
+[2022.03.29-08.08.18:485][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.29-08.08.18:485][648]LogWorld: BeginTearingDown for /Game/Base_UE/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.29-08.08.18:485][648]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.29-08.08.18:486][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.29-08.08.18:497][648]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.29-08.08.18:511][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.29-08.08.18:535][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.29-08.08.18:535][648]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.29-08.08.18:536][648]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.29-08.08.18:541][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.03.29-08.08.18:567][649]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.03.29-08.08.30:408][ 43]BlueprintLog: New page: Compile BP_Microwave
+[2022.03.29-08.08.30:449][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.03.29-08.08.31:033][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Microwave/BP_Microwave" FILE="../../../../GitHUB/Disease/Github/Unreal/Content/Assets/Microwave/BP_Microwave.uasset" SILENT=true
+[2022.03.29-08.08.31:040][105]LogSavePackage: Moving '../../../../GitHUB/Disease/Github/Unreal/Saved/BP_Microwave3254F59D47FE5BE5AE238FA99ECCC342.tmp' to '../../../../GitHUB/Disease/Github/Unreal/Content/Assets/Microwave/BP_Microwave.uasset'
+[2022.03.29-08.08.31:051][105]AssetCheck: New page: Asset Save: BP_Microwave
+[2022.03.29-08.08.31:051][105]LogContentValidation: Display: Validating Blueprint /Game/Assets/Microwave/BP_Microwave.BP_Microwave
+[2022.03.29-08.08.32:516][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.03.29-08.08.32:534][273]LogSavePackage: Moving '../../../../GitHUB/Disease/Github/Unreal/Saved/FirstPersonExampleMap96BAC4DD4D80CBA4749FE4A86F97FCD8.tmp' to '../../../../GitHUB/Disease/Github/Unreal/Content/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.29-08.08.32:887][273]LogSavePackage: Moving '../../../../GitHUB/Disease/Github/Unreal/Saved/FirstPersonExampleMap_BuiltDataE0153B8549D5F8F99C7C179CB1202AB6.tmp' to '../../../../GitHUB/Disease/Github/Unreal/Content/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.03.29-08.08.32:898][273]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.29-08.08.32:898][273]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.03.29-08.08.32:899][273]LogContentValidation: Display: Validating World /Game/Base_UE/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
