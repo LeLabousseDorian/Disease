@@ -10,7 +10,7 @@ NGUYEN Paul <br>
 RIGOT Melvil <br>
 
 
-**Inputs** <br>
+# **Inputs** <br>
 **Keyboard | GamePad	|| Action**
 
 Z/Q/S/D | LeftStick || Movement <br>
