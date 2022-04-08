@@ -1,11 +1,20 @@
 # Disease
-Projet semestriel deuxième année
+**Projet semestriel deuxième année** <br>
+**Studio :** Praise The Sun
 
-Inputs
-Keyboard | GamePad	|| Action
+La fine équipe : <br>
+BARDY Antoine <br>
+DUMOUCHEL <br>
+LE LABOUSSE Dorian <br>
+NGUYEN Paul <br>
+RIGOT Melvil <br>
 
-Z/Q/S/D | LeftStick	|| Movement
-Mouse | RightStick	|| CameraControl
-Left Mouse Button | A 	|| Interact
-F | X			|| Use TeddyBear
-P | Start		|| Pause 
+
+**Inputs** <br>
+**Keyboard | GamePad	|| Action**
+
+Z/Q/S/D | LeftStick || Movement <br>
+Mouse | RightStick || CameraControl <br>
+Left Mouse Button | A || Interact <br>
+F | X || Use TeddyBear <br>
+P | Start || Pause <br>
