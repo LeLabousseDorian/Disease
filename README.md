@@ -4,7 +4,7 @@
 
 La fine équipe : <br>
 BARDY Antoine <br>
-DUMOUCHEL <br>
+DUMOUCHEL Nicolas <br>
 LE LABOUSSE Dorian <br>
 NGUYEN Paul <br>
 RIGOT Melvil <br>
