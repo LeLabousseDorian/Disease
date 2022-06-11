@@ -16,5 +16,5 @@ RIGOT Melvil <br>
 Z/Q/S/D | LeftStick || Movement <br>
 Mouse | RightStick || CameraControl <br>
 Left Mouse Button | A || Interact <br>
-F | X || Use TeddyBear <br>
+F | X || Use Object <br>
 P | Start || Pause <br>
